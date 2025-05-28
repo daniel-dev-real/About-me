@@ -31,4 +31,4 @@ Writing Bash scripts to automate my Ubuntu afterlife
 
 Soundtrack of My Coding Sessions
 
-"In the end, it doesn't even matter..."System.out.println("...Linkin park's forever")
+"In the end, it doesn't even matter..."System.out.println("...Linkin park's forever");
