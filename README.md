@@ -13,12 +13,13 @@ My artistic skills peaked at stick figures (RIP front-end dreams).
 I love dissecting how systems actually work — like when I reverse-engineered game mechanics to optimize my PokeMMO tools.
 
 There's something poetic about code that either works or fails spectacularly (no "it works on my machine" excuses).
+```java
 public class WhyBackend {
      public static void main(String[] args) {
          System.out.println("Front-end? Never heard of her.");
 }
 }
-
+```
 
 
 When I'm not battling NullPointerExceptions:
